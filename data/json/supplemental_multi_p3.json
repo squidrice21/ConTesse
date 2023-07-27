@@ -1,0 +1,17 @@
+{
+	"multicamera_test_cases": [
+		"pipeline/fertility.json",
+		"pipeline/bigguy.json",
+		"pipeline/table.json",
+		"pipeline/monsterfrog.json",
+		"pipeline/toad_small.json",
+		"pipeline/ogre_controlmesh.json",
+		"pipeline/car.json",
+		"pipeline/free_man_3dsmax.json",
+		"pipeline/killeroo_small.json",
+		"pipeline/AngelaFace.json"
+	],
+	"pipeline_test_cases": [
+	],
+	"saved_at": "23-05-2021 19:32:46"
+}

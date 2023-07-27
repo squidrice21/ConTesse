@@ -1,0 +1,18 @@
+/build*
+/_build*
+/.clangd
+/.vs
+/CMakeSettings.json
+/results
+/.vscode
+
+# Dependencies pulled down with FetchContents
+/_external
+
+/**/.DS_Store
+/**/*~
+/**/\#*
+/**/*.pyc
+/compile_commands.json
+__pycache__
+*.egg-info

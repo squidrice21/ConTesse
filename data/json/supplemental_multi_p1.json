@@ -1,0 +1,20 @@
+{
+	"multicamera_test_cases": [
+		"pipeline/sphereB.json",
+		"pipeline/bump_fine.json",
+		"pipeline/stage_uShaped.json",
+		"pipeline/ribbon_closed.json",
+		"pipeline/ribbon_open.json",
+		"pipeline/split.json",
+		"pipeline/torus_quad_v1.json",
+		"pipeline/torus_quad_v2.json",
+		"pipeline/cube.json",
+		"pipeline/twoSpheres.json",
+		"pipeline/boxes.json",
+		"pipeline/Pentagon.json",
+		"pipeline/Hexagon.json"
+	],
+	"pipeline_test_cases": [
+	],
+	"saved_at": "23-05-2021 19:32:46"
+}

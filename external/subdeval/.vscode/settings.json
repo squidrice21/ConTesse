@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "testsubd.C": "cpp",
+        "Subd.C": "cpp",
+        "geom.C": "cpp"
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.o": true,
+        "**/*.so": true,
+        "build/": true,
+    },
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+}

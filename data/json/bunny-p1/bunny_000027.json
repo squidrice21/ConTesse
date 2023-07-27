@@ -1,0 +1,14 @@
+{
+	"camera_info": {
+		"index": 2,
+		"value": {
+			"frame_idx": 0,
+			"path": "bunny_new"
+		}
+	},
+	"description": "bunny_000027",
+	"model_name": "bunny_000027",
+	"model_path": "mesh_2014/bunny/bunny_000027",
+	"saved_at": "18-09-2021 18:09:57",
+	"subdiv_level": 1
+}

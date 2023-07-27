@@ -1,0 +1,21 @@
+{
+	"camera_info": {
+		"index": 1,
+		"value": {
+			"camera_x": 0.0,
+			"camera_y": 0.0,
+			"camera_z": 0.0,
+			"full_info": false,
+			"lookat": [
+				0.0,
+				0.0,
+				0.0
+			]
+		}
+	},
+	"description": "Ribbon closed",
+	"model_name": "ribbon_closed",
+	"model_path": "ribbon_closed",
+	"saved_at": "18-09-2021 18:09:57",
+	"subdiv_level": 1
+}

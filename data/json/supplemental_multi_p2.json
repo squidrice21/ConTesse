@@ -1,0 +1,21 @@
+{
+	"multicamera_test_cases": [
+		"pipeline/tent.json",
+		"pipeline/bump.json",
+		"pipeline/pipes.json",
+		"pipeline/helmet.json",
+		"pipeline/pawn_open.json",
+		"pipeline/rook_open.json",
+		"pipeline/bishop_open.json",
+		"pipeline/pig_quad_controlmesh.json",
+		"pipeline/bob_controlmesh.json",
+		"pipeline/bob_quad.json",
+		"pipeline/blub_quadrangulated.json",
+		"pipeline/blub_control_mesh.json",
+		"pipeline/spot_quadrangulated.json",
+		"pipeline/spot_control_mesh.json"
+	],
+	"pipeline_test_cases": [
+	],
+	"saved_at": "23-05-2021 19:32:46"
+}

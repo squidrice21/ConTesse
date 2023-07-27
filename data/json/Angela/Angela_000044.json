@@ -1,0 +1,14 @@
+{
+	"camera_info": {
+		"index": 2,
+		"value": {
+			"frame_idx": 0,
+			"path": "AngelaFace"
+		}
+	},
+	"description": "Angela_000044",
+	"model_name": "Angela_000044",
+	"model_path": "mesh_2014/Angela/AngelaFace_000044",
+	"saved_at": "18-09-2021 18:09:57",
+	"subdiv_level": 1
+}
